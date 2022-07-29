@@ -1,4 +1,4 @@
-<h1>Henrique Galvão</h1>
+<h1 align="center>Hello, my name is <span color="blue">Henrique Galvão</span></h1>
 
 
 
