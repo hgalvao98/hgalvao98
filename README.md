@@ -72,7 +72,7 @@
 
 <div align='center'>
 
-![](https://komarev.com/ghpvc/?username=hgalvao98&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=hgalvao98&label=Profile+Views&color=yellow)
 
 </div>
 
