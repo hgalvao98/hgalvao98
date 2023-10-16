@@ -60,7 +60,7 @@
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/hgalvao98">
-            <img src="https://github-readme-stats.vercel.app/api?username=hgalvao98&show_icons=true&hide=stars&hide_border=true" alt="Jeffrey's GitHub Stats" vertical-align="middle"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=hgalvao98&show_icons=true&hide=stars&hide_border=true" alt="Henrique's GitHub Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
