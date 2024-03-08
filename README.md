@@ -45,30 +45,6 @@
 <img src="https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="photoshop" />
 </div>
 
-### GitHub Stats 📈
-<div align="center">
-  <table width="100%">
-    <tbody>
-      <tr>
-        <td width="50%" style="border: none !important;">
-        <div align="center" width="100%">
-          <a href="https://github.com/hgalvao98">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgalvao98&layout=compact&hide_border=true&langs_count=4" alt="Henrique's Language Stats" vertical-align="middle"/>
-          </a>
-        </div>
-        </td>
-        <td width="50%" style="border: none !important;">
-        <div align="center" width="100%">
-          <a href="https://github.com/hgalvao98">
-            <img src="https://github-readme-stats.vercel.app/api?username=hgalvao98&show_icons=true&hide=stars&hide_border=true" alt="Henrique's GitHub Stats" vertical-align="middle"/>
-          </a>
-        </div>
-        </td>
-      </tr>
-    </tbody>
-  <table>
-<div>
-
 ---
 
 <div align='center'>
